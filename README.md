@@ -19,4 +19,15 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 ## Stats
-[![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaabeyvickrama)]
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshaabeyvickrama&theme=dark&show_icons=true&count_private=true&show_owner=true&layout=compact" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaabeyvickrama&theme=dark&show_icons=true&count_private=true&show_owner=true&layout=compact" />
+</a>
+<!-- ![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaabeyvickrama&theme=dark&show_icons=true&count_private=true&show_owner=true&layout=compact) -->
+
+<!-- ### Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaabeyvickrama&theme=dark&show_icons=true&count_private=true&show_owner=true&layout=compact) -->
+
