@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/HarshaAbeyvickrama/HarshaAbeyvickrama/main/Github_header.png "Header")](https://some-url.dev/)
 ### Hi there 👋
+
+## Stats
+[![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaabeyvickrama)]
